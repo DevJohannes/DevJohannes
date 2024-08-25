@@ -5,7 +5,7 @@
 
 - 🏆 Current project: [MantentroPanel](https://github.com/Coding-Soul/MantentroPanel)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **pycord, python or java**
 
