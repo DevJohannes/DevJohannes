@@ -12,4 +12,4 @@
 <hr>
 
 - 🚀 Mastering Web Development
-- 🌏 Mastering Java in 2025
+- 🌏 Mastering Java in 2026
