@@ -12,5 +12,4 @@
 <hr>
 
 - 🚀 Mastering Web Development
-- 💡 Building a successful [startup](https://github.com/StudictEducation) to help students around the world
 - 🌏 Mastering Java in 2025
